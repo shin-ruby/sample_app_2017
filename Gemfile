@@ -23,6 +23,9 @@ gem 'faker', '1.6.6'
 gem 'will_paginate', '~> 3.1', '>= 3.1.5'
 gem 'bootstrap-will_paginate', '~> 0.0.10'
 
+gem 'carrierwave', '~> 1.0'
+gem 'mini_magick', '~> 4.6', '>= 4.6.1'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
